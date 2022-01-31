@@ -1,0 +1,85 @@
+body
+{
+	background-color: rgb(207, 198, 142); 
+	font-family: Verdana;
+	font-size: 20px;
+	color: cyan;
+	overflow: scroll;
+	text-align: center;
+	clear: both;
+}
+
+#head
+{
+	margin: auto;
+	width: 65%;
+	height: 20%;
+	background-color: darkgoldenrod;
+	padding: 70px 0;
+    border: 3px solid green;
+	margin-bottom: 40px;
+	clear: both;
+	font-size: 28px;
+	color: red;
+}
+
+.img
+{
+	background-color: darkgray;
+	width: 352px;
+	height: 500px;
+	padding: 5px;
+	border: 3px solid rgb(30, 196, 196);
+}
+
+.text
+{
+	text-shadow: 1px 1px;
+}
+
+h2
+{
+	font-size: 20px;
+	text-shadow: 1px 1px;
+}
+
+.left
+{
+	position: absolute;
+	top: 277px;
+	left: 250px;
+}
+.lefttext
+{
+	position: absolute;
+	top: 213px;
+	left: 229px;
+}
+
+.right
+{
+	position: absolute;
+	top: 277px;
+	right: 250px;
+}
+.righttext
+{
+	position: absolute;
+	top: 213px;
+	right: 229px;
+}
+
+a:link
+{
+	color: rgba(255, 0, 0, 0.432);
+}
+
+a:visited
+{
+	color:rgba(255, 0, 0, 0.432);
+}
+
+a:hover
+{
+	color: rgba(116, 12, 20, 0.548);
+}
